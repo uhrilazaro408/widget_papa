@@ -1,12 +1,12 @@
 {
-  "name": "wrist_redesign",
-  "version": "1.2.0",
+  "name": "saucer_unify",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/EppingerTransou792/wrist_redesign"
+    "url": "https://github.com/EppingerTransou792/saucer_unify"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "EppingerTransou792",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EppingerTransou792/wrist_redesign/issues"
+    "url": "https://github.com/EppingerTransou792/saucer_unify/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -72,7 +72,8 @@
     "diagnosis_willingness": "1.0.0",
     "engine_workplace": "1.0.0",
     "harbour_wend": "1.0.0",
-    "few_occurrence": "1.0.0"
+    "few_occurrence": "1.0.0",
+    "wrist_redesign": "1.0.0"
   },
-  "homepage": "https://github.com/EppingerTransou792/wrist_redesign#README.md"
+  "homepage": "https://github.com/EppingerTransou792/saucer_unify#README.md"
 }
