@@ -1,12 +1,12 @@
 {
-  "name": "sonar_combine",
-  "version": "1.2.0",
+  "name": "latte_neighbor",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/UhriLazaro408/sonar_combine"
+    "url": "https://github.com/UhriLazaro408/latte_neighbor"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "UhriLazaro408",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/UhriLazaro408/sonar_combine/issues"
+    "url": "https://github.com/UhriLazaro408/latte_neighbor/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -78,7 +78,8 @@
     "disillusioned_commuter": "1.0.0",
     "reservoir_hubcap": "1.0.0",
     "find_modem": "1.0.0",
-    "barge_choice": "1.0.0"
+    "barge_choice": "1.0.0",
+    "sonar_combine": "1.0.0"
   },
-  "homepage": "https://github.com/UhriLazaro408/sonar_combine#README.md"
+  "homepage": "https://github.com/UhriLazaro408/latte_neighbor#README.md"
 }
