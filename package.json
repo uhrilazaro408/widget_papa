@@ -1,12 +1,12 @@
 {
-  "name": "harbour_wend",
-  "version": "1.2.0",
+  "name": "few_occurrence",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/EppingerTransou792/harbour_wend"
+    "url": "https://github.com/EppingerTransou792/few_occurrence"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "EppingerTransou792",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EppingerTransou792/harbour_wend/issues"
+    "url": "https://github.com/EppingerTransou792/few_occurrence/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -70,7 +70,8 @@
     "redesign_pay": "1.0.0",
     "handsaw_export": "1.0.0",
     "diagnosis_willingness": "1.0.0",
-    "engine_workplace": "1.0.0"
+    "engine_workplace": "1.0.0",
+    "harbour_wend": "1.0.0"
   },
-  "homepage": "https://github.com/EppingerTransou792/harbour_wend#README.md"
+  "homepage": "https://github.com/EppingerTransou792/few_occurrence#README.md"
 }
