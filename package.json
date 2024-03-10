@@ -1,12 +1,12 @@
 {
-  "name": "tog_private",
-  "version": "1.2.0",
+  "name": "savannah_depot",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AlverazCartin477/tog_private"
+    "url": "https://github.com/PrasadKuemmerle733/savannah_depot"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "AlverazCartin477",
+  "author": "PrasadKuemmerle733",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlverazCartin477/tog_private/issues"
+    "url": "https://github.com/PrasadKuemmerle733/savannah_depot/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -66,7 +66,8 @@
     "ossified_aim": "1.0.0",
     "acrid_period": "1.0.0",
     "pancreas_sub": "1.0.0",
-    "motorcycle_yam": "1.0.0"
+    "motorcycle_yam": "1.0.0",
+    "tog_private": "1.0.0"
   },
-  "homepage": "https://github.com/AlverazCartin477/tog_private#README.md"
+  "homepage": "https://github.com/PrasadKuemmerle733/savannah_depot#README.md"
 }
