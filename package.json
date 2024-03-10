@@ -1,12 +1,12 @@
 {
-  "name": "hunting_handover",
-  "version": "1.2.0",
+  "name": "ossified_aim",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AlverazCartin477/hunting_handover"
+    "url": "https://github.com/AlverazCartin477/ossified_aim"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "AlverazCartin477",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlverazCartin477/hunting_handover/issues"
+    "url": "https://github.com/AlverazCartin477/ossified_aim/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -61,7 +61,8 @@
     "patriot_turkey": "1.0.0",
     "human_founder": "1.0.0",
     "attach_cube": "1.0.0",
-    "fur_boat": "1.0.0"
+    "fur_boat": "1.0.0",
+    "hunting_handover": "1.0.0"
   },
-  "homepage": "https://github.com/AlverazCartin477/hunting_handover#README.md"
+  "homepage": "https://github.com/AlverazCartin477/ossified_aim#README.md"
 }
