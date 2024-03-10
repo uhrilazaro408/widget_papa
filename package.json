@@ -1,12 +1,12 @@
 {
-  "name": "redesign_pay",
-  "version": "1.2.0",
+  "name": "handsaw_export",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/EspindolaCarboni983/redesign_pay"
+    "url": "https://github.com/EspindolaCarboni983/handsaw_export"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "EspindolaCarboni983",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EspindolaCarboni983/redesign_pay/issues"
+    "url": "https://github.com/EspindolaCarboni983/handsaw_export/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -66,7 +66,8 @@
     "seep_monument": "1.0.0",
     "spine_excess": "1.0.0",
     "hurried_resident": "1.0.0",
-    "equinox_peninsula": "1.0.0"
+    "equinox_peninsula": "1.0.0",
+    "redesign_pay": "1.0.0"
   },
-  "homepage": "https://github.com/EspindolaCarboni983/redesign_pay#README.md"
+  "homepage": "https://github.com/EspindolaCarboni983/handsaw_export#README.md"
 }
