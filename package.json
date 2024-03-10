@@ -1,12 +1,12 @@
 {
-  "name": "rustic_encourage",
-  "version": "1.2.0",
+  "name": "gym_bake",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SemberBalda272/rustic_encourage"
+    "url": "https://github.com/EspindolaCarboni983/gym_bake"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "SemberBalda272",
+  "author": "EspindolaCarboni983",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SemberBalda272/rustic_encourage/issues"
+    "url": "https://github.com/EspindolaCarboni983/gym_bake/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -59,7 +59,8 @@
     "bourgeoisie_advice": "1.0.0",
     "exotic_omission": "1.0.0",
     "patty_mambo": "1.0.0",
-    "almanac_scarf": "1.0.0"
+    "almanac_scarf": "1.0.0",
+    "rustic_encourage": "1.0.0"
   },
-  "homepage": "https://github.com/SemberBalda272/rustic_encourage#README.md"
+  "homepage": "https://github.com/EspindolaCarboni983/gym_bake#README.md"
 }
