@@ -1,12 +1,12 @@
 {
-  "name": "oversight_pseudocode",
-  "version": "1.2.0",
+  "name": "seep_monument",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/EspindolaCarboni983/oversight_pseudocode"
+    "url": "https://github.com/EspindolaCarboni983/seep_monument"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "EspindolaCarboni983",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EspindolaCarboni983/oversight_pseudocode/issues"
+    "url": "https://github.com/EspindolaCarboni983/seep_monument/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -61,7 +61,8 @@
     "patty_mambo": "1.0.0",
     "almanac_scarf": "1.0.0",
     "rustic_encourage": "1.0.0",
-    "gym_bake": "1.0.0"
+    "gym_bake": "1.0.0",
+    "oversight_pseudocode": "1.0.0"
   },
-  "homepage": "https://github.com/EspindolaCarboni983/oversight_pseudocode#README.md"
+  "homepage": "https://github.com/EspindolaCarboni983/seep_monument#README.md"
 }
