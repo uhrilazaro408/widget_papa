@@ -1,12 +1,12 @@
 {
-  "name": "clutch_digestive",
-  "version": "1.2.0",
+  "name": "wildlife_situation",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SemberBalda272/clutch_digestive"
+    "url": "https://github.com/SemberBalda272/wildlife_situation"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "SemberBalda272",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SemberBalda272/clutch_digestive/issues"
+    "url": "https://github.com/SemberBalda272/wildlife_situation/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -76,7 +76,8 @@
     "media_pegboard": "1.0.0",
     "bower_fowl": "1.0.0",
     "seeker_chasm": "1.0.0",
-    "numerous_assessment": "1.0.0"
+    "numerous_assessment": "1.0.0",
+    "clutch_digestive": "1.0.0"
   },
-  "homepage": "https://github.com/SemberBalda272/clutch_digestive#README.md"
+  "homepage": "https://github.com/SemberBalda272/wildlife_situation#README.md"
 }
