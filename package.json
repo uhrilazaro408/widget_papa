@@ -1,12 +1,12 @@
 {
-  "name": "latte_neighbor",
-  "version": "1.2.0",
+  "name": "ruffle_queue",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/UhriLazaro408/latte_neighbor"
+    "url": "https://github.com/UhriLazaro408/ruffle_queue"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "UhriLazaro408",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/UhriLazaro408/latte_neighbor/issues"
+    "url": "https://github.com/UhriLazaro408/ruffle_queue/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -79,7 +79,8 @@
     "reservoir_hubcap": "1.0.0",
     "find_modem": "1.0.0",
     "barge_choice": "1.0.0",
-    "sonar_combine": "1.0.0"
+    "sonar_combine": "1.0.0",
+    "latte_neighbor": "1.0.0"
   },
-  "homepage": "https://github.com/UhriLazaro408/latte_neighbor#README.md"
+  "homepage": "https://github.com/UhriLazaro408/ruffle_queue#README.md"
 }
