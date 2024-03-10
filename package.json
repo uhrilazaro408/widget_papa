@@ -1,12 +1,12 @@
 {
-  "name": "mineral_imprisonment",
-  "version": "1.2.0",
+  "name": "shy_shred",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/UhriLazaro408/mineral_imprisonment"
+    "url": "https://github.com/UhriLazaro408/shy_shred"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "UhriLazaro408",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/UhriLazaro408/mineral_imprisonment/issues"
+    "url": "https://github.com/UhriLazaro408/shy_shred/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -57,7 +57,8 @@
     "rollup-plugin-replace": "^2.0.0",
     "rollup-plugin-uglify": "^3.0.0",
     "ruffle_queue": "1.0.0",
-    "killer_sample": "1.0.0"
+    "killer_sample": "1.0.0",
+    "mineral_imprisonment": "1.0.0"
   },
-  "homepage": "https://github.com/UhriLazaro408/mineral_imprisonment#README.md"
+  "homepage": "https://github.com/UhriLazaro408/shy_shred#README.md"
 }
