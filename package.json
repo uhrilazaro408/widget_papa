@@ -1,12 +1,12 @@
 {
-  "name": "patriot_turkey",
-  "version": "1.2.0",
+  "name": "human_founder",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZukasMerlini535/patriot_turkey"
+    "url": "https://github.com/AlverazCartin477/human_founder"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "compose",
     "children"
   ],
-  "author": "ZukasMerlini535",
+  "author": "AlverazCartin477",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ZukasMerlini535/patriot_turkey/issues"
+    "url": "https://github.com/AlverazCartin477/human_founder/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -57,7 +57,8 @@
     "rollup-plugin-replace": "^2.0.0",
     "rollup-plugin-uglify": "^3.0.0",
     "piece_sprinkles": "1.0.0",
-    "cyst_recommend": "1.0.0"
+    "cyst_recommend": "1.0.0",
+    "patriot_turkey": "1.0.0"
   },
-  "homepage": "https://github.com/ZukasMerlini535/patriot_turkey#README.md"
+  "homepage": "https://github.com/AlverazCartin477/human_founder#README.md"
 }
