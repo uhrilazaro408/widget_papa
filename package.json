@@ -1,12 +1,12 @@
 {
-  "name": "reservoir_hubcap",
-  "version": "1.2.0",
+  "name": "find_modem",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/EppingerTransou792/reservoir_hubcap"
+    "url": "https://github.com/EppingerTransou792/find_modem"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "EppingerTransou792",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EppingerTransou792/reservoir_hubcap/issues"
+    "url": "https://github.com/EppingerTransou792/find_modem/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -75,7 +75,8 @@
     "few_occurrence": "1.0.0",
     "wrist_redesign": "1.0.0",
     "saucer_unify": "1.0.0",
-    "disillusioned_commuter": "1.0.0"
+    "disillusioned_commuter": "1.0.0",
+    "reservoir_hubcap": "1.0.0"
   },
-  "homepage": "https://github.com/EppingerTransou792/reservoir_hubcap#README.md"
+  "homepage": "https://github.com/EppingerTransou792/find_modem#README.md"
 }
