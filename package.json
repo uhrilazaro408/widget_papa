@@ -1,12 +1,12 @@
 {
-  "name": "acrid_period",
-  "version": "1.2.0",
+  "name": "pancreas_sub",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AlverazCartin477/acrid_period"
+    "url": "https://github.com/AlverazCartin477/pancreas_sub"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "AlverazCartin477",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlverazCartin477/acrid_period/issues"
+    "url": "https://github.com/AlverazCartin477/pancreas_sub/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -63,7 +63,8 @@
     "attach_cube": "1.0.0",
     "fur_boat": "1.0.0",
     "hunting_handover": "1.0.0",
-    "ossified_aim": "1.0.0"
+    "ossified_aim": "1.0.0",
+    "acrid_period": "1.0.0"
   },
-  "homepage": "https://github.com/AlverazCartin477/acrid_period#README.md"
+  "homepage": "https://github.com/AlverazCartin477/pancreas_sub#README.md"
 }
